@@ -97,5 +97,6 @@ The report is organized into the following sections:
 ## Tools and Libraries
 
 - **EEGLAB**
-- EEG hardware and signal-processing workflow
+- MATLAB
+- EEG hardware signal-processing workflow
 - traditional and multivariate EEG analysis methods
