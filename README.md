@@ -9,7 +9,7 @@ This repository contains computational projects from the Spring 2025 Master's co
 | **Psychophysics** | Modeling face recognition performance. | Python |
 | **Electrophysiology** | Spike sorting & neural variability analysis. | MATLAB, ROSS |
 | **EEG RSVP** | Visual processing & multivariate pattern analysis. | MATLAB, EEGLAB |
-| **SleepEEGNet** | Deep learning for automated sleep staging. | Python |
+| **SleepEEGNet** | Deep learning for automated sleep staging. | -(Presentation) |
 
 ---
 
